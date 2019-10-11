@@ -1,0 +1,54 @@
+{
+  "data":[
+  {
+    "title": "Revenue",
+    "total": 200000,
+    "items": [
+      {
+        "name": "Tablet",
+        "quantity": 120000,
+        "percent": "60%",
+        "color": "#457914"
+      },
+      {
+        "name": "Smartphone",
+        "quantity": 80000,
+        "percent": "40%",
+        "color": "#6EC818"
+      }]
+  },
+  {
+    "title": "Impressions",
+    "total": 50000000,
+    "items": [
+      {
+        "name": "Tablet",
+        "quantity": 20000000,
+        "percent": "40%",
+        "color": "#182AC8"
+      },
+      {
+        "name": "Smartphone",
+        "quantity": 30000000,
+        "percent": "60%",
+        "color": "#67AAE3"
+      }]
+  },
+  {
+    "title": "Visits",
+    "total": 600000000,
+    "items": [
+      {
+        "name": "Tablet",
+        "quantity": 480000000,
+        "percent": "80%",
+        "color": "#E17C17"
+      },
+      {
+        "name": "Smartphone",
+        "quantity": 120000000,
+        "percent": "20%",
+        "color": "#E1B317"
+      }]
+  }]
+}
